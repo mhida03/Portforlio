@@ -14,7 +14,7 @@ const Hero3D = () => {
         <div className="photo-frame-inner">
           <div className="photo-frame-border">
             <img 
-              src={profileData.photo || "/src/assets/profile-photo.jpg"} 
+              src={profileData.photo || "assets/profile-photo.jpg"} 
               alt={`Photo de ${profileData.name}`}
               className="profile-photo"
               onError={(e) => {
