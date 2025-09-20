@@ -1,0 +1,83 @@
+{
+  "name": "Motie HIDA",
+  "title": "Junior Java / Spring Boot — Microservices, REST, DevOps",
+  "location": "Oujda, Maroc",
+  "email": "motiehida1@gmail.com",
+  "phone": "+212 706 146 185",
+  "availability": "Stage de fin d'études: Février – Juillet 2026",
+  "summary": "Développeur junior Java/Spring Boot, rigoureux, autonome, orienté résultats; passionné, curieux et dynamique.",
+  "softSkills": ["Esprit d'équipe", "Curiosité", "Apprentissage autonome", "Capacité d'adaptation"],
+  "languages": [
+    {"label": "Français", "level": "C1 (Bilingue)"},
+    {"label": "Anglais", "level": "B2"},
+    {"label": "Arabe", "level": "Langue maternelle"}
+  ],
+  "skills": {
+    "Langages": ["Java 17", "SQL", "JavaScript", "PHP"],
+    "Frameworks": ["Spring Boot", "Spring Security", "Hibernate", "React (bases)", "Symfony 6"],
+    "API": ["REST", "Postman"],
+    "Build & CI/CD": ["Maven", "Git/GitHub", "GitHub Actions", "Jenkins"],
+    "DevOps": ["Docker", "SonarQube", "Ansible"],
+    "Databases": ["PostgreSQL", "MySQL"],
+    "Monitoring": ["Prometheus", "Grafana"]
+  },
+  "experience": [
+    {
+      "title": "Stagiaire Java/Spring Boot",
+      "company": "SQLI Oujda",
+      "period": "2025 (3 mois)",
+      "highlights": [
+        "Plateforme d'e-signature (Spring Boot + React): génération PDF signés, OTP/TOTP, liens UUID",
+        "Stockage chiffré FS, PostgreSQL, pilotage Agile (Scrum Master)"
+      ]
+    },
+    {
+      "title": "Stagiaire (PFE DUT)",
+      "company": "Préfecture Oujda",
+      "period": "2023 (2 mois)",
+      "highlights": [
+        "App web Laravel: gestion des adresses/annexes des personnes vaccinées"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "OptiTry – Essayage AR & IA de lunettes",
+      "category": "AI & Vision",
+      "stack": ["Symfony", ".NET", "Python", "Grafana", "Prometheus"],
+      "impact": "Essayage virtuel webcam + recommandations morphologiques; dashboard opticiens"
+    },
+    {
+      "title": "CRM Symfony & DevOps",
+      "category": "Symfony / DevOps",
+      "stack": ["Symfony 6", "Docker", "Jenkins", "GitLab CI", "Ansible", "SonarQube", "Prometheus/Grafana"],
+      "impact": "Gestion clients/factures, auth sécurisée, CI/CD, monitoring temps réel"
+    },
+    {
+      "title": "Détection de type de sol (IA)",
+      "category": "AI & Vision",
+      "stack": ["Python", "NumPy", "Pandas", "scikit-learn", "Matplotlib"],
+      "impact": "Classification d'images; précision ~63.8%; matrice de confusion; piste CNN légères"
+    },
+    {
+      "title": "Gestion Cabinet Dentaire",
+      "category": "Full-stack",
+      "stack": ["PHP", "Java", "Qt/C++", "MySQL", "HTML/CSS/JS/jQuery"],
+      "impact": "Patients, rendez-vous, dossiers médicaux"
+    },
+    {
+      "title": "JEE Réservations – Atlético de Madrid",
+      "category": "Java & Spring",
+      "stack": ["Java EE (Servlets/JSP)", "JDBC", "REST", "MySQL", "Bootstrap", "Tomcat"],
+      "impact": "Réservations billets, gestion rôles, API matchs externe"
+    }
+  ],
+  "education": [
+    {"title": "EHEI – Ingénieur Génie Informatique (5e année)", "period": "2023–2026"},
+    {"title": "OFPPT – TS Développement Digital", "period": "2021–2023"},
+    {"title": "Baccalauréat Sciences Physiques", "period": "2020–2021"}
+  ],
+  "hobbies": ["Veille Technologique, I.A", "Voyage", "Photographie", "Sport"],
+  "photo": "/src/assets/profile-photo.jpg",
+  "cvUrl": "/src/assets/Motie_Hida_CV.pdf"
+}
