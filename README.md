@@ -112,59 +112,6 @@ npm run preview
 
 ## 📊 Data Management
 
-### Profile Data Structure
-
-The portfolio content is managed through `/src/data/profile.json`:
-
-```json
-{
-  "name": "Your Name",
-  "title": "Your Professional Title",
-  "location": "Your Location",
-  "email": "your.email@example.com",
-  "phone": "+1234567890",
-  "availability": "Your Availability",
-  "summary": "Your professional summary",
-  "softSkills": ["Skill 1", "Skill 2"],
-  "languages": [
-    {"label": "Language", "level": "Proficiency Level"}
-  ],
-  "skills": {
-    "Category": ["Skill 1", "Skill 2"]
-  },
-  "experience": [
-    {
-      "title": "Job Title",
-      "company": "Company Name",
-      "period": "Time Period",
-      "highlights": ["Achievement 1", "Achievement 2"]
-    }
-  ],
-  "projects": [
-    {
-      "title": "Project Name",
-      "category": "Project Category",
-      "stack": ["Tech 1", "Tech 2"],
-      "impact": "Project description and impact"
-    }
-  ],
-  "education": [
-    {"title": "Degree/Certification", "period": "Time Period"}
-  ],
-  "hobbies": ["Hobby 1", "Hobby 2"],
-  "photo": "assets/profile-photo.jpg",
-  "cvUrl": "assets/Your_CV.pdf"
-}
-```
-
-### Updating Content
-
-1. **Personal Information**: Update basic details in the root level
-2. **Skills**: Add/modify skills by category in the `skills` object
-3. **Projects**: Add new projects with proper categorization
-4. **Experience**: Update professional experience with highlights
-5. **Assets**: Replace photo and CV files in `/public/assets/`
-
 ### Project Categories
 
 The portfolio supports filtering by these categories:
