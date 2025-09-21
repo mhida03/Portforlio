@@ -78,6 +78,6 @@
     {"title": "Baccalauréat Sciences Physiques", "period": "2020–2021"}
   ],
   "hobbies": ["Veille Technologique, I.A", "Voyage", "Photographie", "Sport"],
-  "photo": "/src/assets/profile-photo.jpg",
-  "cvUrl": "/src/assets/Motie_Hida_CV.pdf"
+  "photo": "/assets/profile-photo.jpg",
+  "cvUrl": "/assets/Motie_Hida_CV.pdf"
 }

@@ -152,8 +152,8 @@ The portfolio content is managed through `/src/data/profile.json`:
     {"title": "Degree/Certification", "period": "Time Period"}
   ],
   "hobbies": ["Hobby 1", "Hobby 2"],
-  "photo": "/src/assets/profile-photo.jpg",
-  "cvUrl": "/src/assets/Your_CV.pdf"
+  "photo": "assets/profile-photo.jpg",
+  "cvUrl": "assets/Your_CV.pdf"
 }
 ```
 
